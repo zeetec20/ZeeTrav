@@ -1,0 +1,35 @@
+{
+    "name": "ZeeTrav",
+    "facilities": [
+        {
+            "name": "Lodgment",
+            "descript": "Aliqua in aute dolor occaecat aute officia aliqua irure nulla minim id.",
+            "image": "/asset/img/facilities/hotel.jpg"
+        },
+        {
+            "name": "Food",
+            "descript": "Aliqua in aute dolor occaecat aute officia aliqua irure nulla minim id.",
+            "image": "/asset/img/facilities/food.jpg"
+        },
+        {
+            "name": "Tour Guide",
+            "descript": "Aliqua in aute dolor occaecat aute officia aliqua irure nulla minim id.",
+            "image": "/asset/img/facilities/tour_guide.jpg"
+        }
+    ],
+    "about": "ZeeTrav adalah penyedia pelayanan Travel, dalam ZeeTrav kami bisa melayani seperti travel liburan ataupun sekedar perjalanan.",
+    "contact": {
+        "address": {
+            "text": "Indonesia, Jawa Timur, Banyuwangi",
+            "descript": "Purwoharjo, Office ZeeTrav"
+        },
+        "email": {
+            "text": "jusles363@gmail.com",
+            "descript": "Ojo email lak gak penting"
+        },
+        "number_phone": {
+            "text": "082141950044",
+            "descript": "Iki nomere kantor"
+        }
+    }
+}
